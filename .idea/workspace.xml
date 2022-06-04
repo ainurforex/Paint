@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40050f11-8514-4caa-88f3-d2a2b734a13f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paint.iml" afterDir="false" />
+    <list default="true" id="40050f11-8514-4caa-88f3-d2a2b734a13f" name="Changes" comment="Рисовалка">
       <change afterPath="$PROJECT_DIR$/Paint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaintIt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PaintIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PaintIt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654324624527</updated>
-      <workItem from="1654324625745" duration="1417000" />
+      <workItem from="1654324625745" duration="2356000" />
     </task>
+    <task id="LOCAL-00001" summary="Рисовалка">
+      <created>1654326123829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654326123829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Рисовалка" />
+    <option name="LAST_COMMIT_MESSAGE" value="Рисовалка" />
   </component>
 </project>
